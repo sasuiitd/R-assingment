@@ -7,7 +7,7 @@ There were 5 broad steps involved in this exercise
 4.label the data set with activity names
 5.Create Tidy data set
 
-Let me descrive each step in detail
+Let me describe each step in detail
 
 1.Merge training and test data
 
